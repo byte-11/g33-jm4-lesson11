@@ -62,7 +62,5 @@ public class Main {
         executor.scheduleAtFixedRate(()->{
             System.out.println("Welcome to PARTY😎");
         },-1,15, TimeUnit.SECONDS);
-
-
     }
 }
