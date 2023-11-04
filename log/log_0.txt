@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-11-03T13:24:07.162766500Z</date>
+  <millis>1699017847162</millis>
+  <nanos>766500</nanos>
+  <sequence>0</sequence>
+  <logger>events.EventTask</logger>
+  <level>INFO</level>
+  <class>events.EventTask</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Event: Presentation - started.</message>
+</record>
+<record>
+  <date>2023-11-03T13:24:07.162766500Z</date>
+  <millis>1699017847162</millis>
+  <nanos>766500</nanos>
+  <sequence>1</sequence>
+  <logger>events.EventTask</logger>
+  <level>INFO</level>
+  <class>events.EventTask</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Event: Networking Reception - started.</message>
+</record>
+<record>
+  <date>2023-11-03T13:24:07.162766500Z</date>
+  <millis>1699017847162</millis>
+  <nanos>766500</nanos>
+  <sequence>3</sequence>
+  <logger>events.EventTask</logger>
+  <level>INFO</level>
+  <class>events.EventTask</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Event: Meeting with Team - started.</message>
+</record>
+<record>
+  <date>2023-11-03T13:24:07.162766500Z</date>
+  <millis>1699017847162</millis>
+  <nanos>766500</nanos>
+  <sequence>2</sequence>
+  <logger>events.EventTask</logger>
+  <level>INFO</level>
+  <class>events.EventTask</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Event: Workshop on Java - started.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-11-03T13:25:02.928453300Z</date>
+  <millis>1699017902928</millis>
+  <nanos>453300</nanos>
+  <sequence>1</sequence>
+  <logger>events.EventTask</logger>
+  <level>INFO</level>
+  <class>events.EventTask</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Event: Presentation - started.</message>
+</record>
+<record>
+  <date>2023-11-03T13:25:02.928453300Z</date>
+  <millis>1699017902928</millis>
+  <nanos>453300</nanos>
+  <sequence>3</sequence>
+  <logger>events.EventTask</logger>
+  <level>INFO</level>
+  <class>events.EventTask</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Event: Networking Reception - started.</message>
+</record>
+<record>
+  <date>2023-11-03T13:25:02.928453300Z</date>
+  <millis>1699017902928</millis>
+  <nanos>453300</nanos>
+  <sequence>2</sequence>
+  <logger>events.EventTask</logger>
+  <level>INFO</level>
+  <class>events.EventTask</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Event: Workshop on Java - started.</message>
+</record>
+<record>
+  <date>2023-11-03T13:25:02.928453300Z</date>
+  <millis>1699017902928</millis>
+  <nanos>453300</nanos>
+  <sequence>0</sequence>
+  <logger>events.EventTask</logger>
+  <level>INFO</level>
+  <class>events.EventTask</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Event: Meeting with Team - started.</message>
+</record>
+</log>
