@@ -35,8 +35,6 @@ public class Main {
 
     }
 
-
-
     public static void main(String[] args) throws FileNotFoundException {
         log.severe("server msg");
         log.warning("warning msg");
